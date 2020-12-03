@@ -23,5 +23,4 @@ The showcase to perform synchronous inference on an image to check whether a car
     └── cars_1900_first_frame.jpg
 
 2 directories, 7 files
-
 ```
