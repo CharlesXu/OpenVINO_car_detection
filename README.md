@@ -24,3 +24,5 @@ The showcase to perform synchronous inference on an image to check whether a car
 
 2 directories, 7 files
 ```
+
+## What It Does
