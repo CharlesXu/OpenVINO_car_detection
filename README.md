@@ -9,7 +9,8 @@ The showcase to perform synchronous inference on an image to check whether a car
 
 
 ## Directory Structure
-`
+
+```
 .
 ├── exec.sh
 ├── lab.py
@@ -20,4 +21,7 @@ The showcase to perform synchronous inference on an image to check whether a car
 ├── README.md
 └── resources
     └── cars_1900_first_frame.jpg
-`
+
+2 directories, 7 files
+
+```
