@@ -6,3 +6,18 @@ The showcase to perform synchronous inference on an image to check whether a car
 | OS:                 | Ubuntu\* 18.04 LTS |
 | OpenVINO:           | 2020.3 LTS         |
 | Python:             |  3.6.9             |
+
+
+## Directory Structure
+`
+.
+├── exec.sh
+├── lab.py
+├── LICENSE
+├── model
+│   ├── vehicle-detection-adas-0002.bin
+│   └── vehicle-detection-adas-0002.xml
+├── README.md
+└── resources
+    └── cars_1900_first_frame.jpg
+`
