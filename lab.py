@@ -56,7 +56,7 @@ def infer_on_image(args):
             ymax = int(obj[6] * height)
 
             cv2.rectangle(input_img, (xmin, ymin), (xmax, ymax), (0, 255, 0), 3)
-            cv2.imshow("test_img", input_img)
+            cv2.imshow("test_img", cv2.resize(input_img, (int(width * 0.75), int(height * 0.75))))
     
     cv2.waitKey(0)
 
