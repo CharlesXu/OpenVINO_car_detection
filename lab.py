@@ -60,7 +60,7 @@ def infer_on_image(args):
     
     cv2.waitKey(0)
 
-    print("Detected {} cars".format(count))
+    print("[ INFO ] Detected {} cars".format(count))
 
 def main():
     args = get_args()
